@@ -1,2 +1,2 @@
 # LCQT2
-Lunar client fix
+Solar Tweaks alternative
